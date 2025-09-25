@@ -25,3 +25,23 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+# NgRx CRUD User Management App
+
+## Description
+A simple user management app using Angular, NgRx, and json-server.
+
+## Setup
+1. Install dependencies:
+   npm install
+2. Start json-server:
+   npm run start:api
+3. Start Angular app:
+   ng serve
+
+## Features
+- Login page (mock authentication)
+- Add/Edit/Delete users
+- State management with NgRx
+
